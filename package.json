@@ -31,11 +31,11 @@
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
     "bumpp": "^9.11.1",
-    "eslint": "^9.25.1",
+    "eslint": "^9.26.0",
     "lint-staged": "^15.5.1",
     "pnpm": "^9.15.0",
     "rimraf": "^6.0.1",
-    "simple-git-hooks": "^2.12.1",
+    "simple-git-hooks": "^2.13.0",
     "typescript": "5.3.3"
   },
   "commitlint": {
